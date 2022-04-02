@@ -6,7 +6,7 @@ body{
 
 /* Align the h1 containing your name in the center of the header*/
 h1{
-    padding-right: 300px;
+    padding: 25px;
 }
 /* Make your p tag a different color and italic */
 
