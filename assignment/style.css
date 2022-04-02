@@ -40,9 +40,9 @@ p{
 }
 /* Put a border around your image */
 img{
-    padding-bottom: 25%;
+    
     border: 25px solid blueviolet;
-   text-align: center;
+    text-align: center;
   
 }
 /* Change the font-family of your list */
