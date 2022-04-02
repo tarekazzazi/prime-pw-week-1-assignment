@@ -8,7 +8,7 @@ body{
 }
 /* Make the header and footer a different color from the background */
 header{
-    background-color: azure;
+    background-color: honeydew;
     position: absolute;
     top:    0;
     left:   0;
@@ -38,7 +38,7 @@ p{
 /* Put a border around your image */
 img { 
     width: 25%;
-    border: 25px solid blueviolet;
+    border: 15px solid honeydew;
     text-align: center;
     
 }
