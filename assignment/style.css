@@ -40,7 +40,7 @@ p{
 }
 /* Put a border around your image */
 img{
-    position: relative;
+  
     border: 25px;
     border-style: solid;
     border-color: blueviolet;
