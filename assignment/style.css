@@ -6,7 +6,7 @@ body{
     margin-top: 125px;
     margin bottom: 125px;     
     text-align: center ;
-    ul align: center;
+   
     
     
 }
@@ -48,3 +48,6 @@ img{
   
 }
 /* Change the font-family of your list */
+ul{
+    list-style: center;
+}
