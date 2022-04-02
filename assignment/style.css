@@ -10,6 +10,7 @@ body{
 /* Make the header and footer a different color from the background */
 header{
     background-color: azure;
+    position: absolute;
 }
 footer{
     background-color: peachpuff;
