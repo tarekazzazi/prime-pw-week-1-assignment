@@ -2,7 +2,7 @@
 body{
     background-color: aqua;
     margin:   50px;
-    text-align: center;
+    
     
     
     
@@ -40,7 +40,7 @@ p{
 }
 /* Put a border around your image */
 img{ 
-    float: right 25%;
+   
     border: 25px solid blueviolet;
     text-align: center;
   
