@@ -2,6 +2,7 @@
 body{
     background-color: aqua;
     padding-left: 25px;
+    text-align: center;
 }
 /* Make the header and footer a different color from the background */
 
@@ -14,7 +15,7 @@ p{
     color:  palevioletred;
     font-style: italic;
     font-size: larger;
-    text-align: center;
+    
 }
 /* Put a border around your image */
 
