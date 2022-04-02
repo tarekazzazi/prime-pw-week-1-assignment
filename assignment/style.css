@@ -39,8 +39,8 @@ p{
     
 }
 /* Put a border around your image */
-img{ position: relative;
-    
+img{ 
+    float: right 25px;
     border: 25px solid blueviolet;
     text-align: center;
   
