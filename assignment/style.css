@@ -1,7 +1,7 @@
 /* Give your page a fun background color */
 body{
     background-color: aqua;
-    
+    margin: 25px;
     
     
     
@@ -14,7 +14,7 @@ header{
 footer{
     background-color: peachpuff;
     text-align: center;
-    padding-top: 100px;
+ 
 }
 /* Align the h1 containing your name in the center of the header*/
 h1{
