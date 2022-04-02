@@ -14,7 +14,7 @@ header{
 footer{
     background-color: peachpuff;
     text-align: center;
-    bottom: 0;
+    padding-bottom: 100px;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1{
