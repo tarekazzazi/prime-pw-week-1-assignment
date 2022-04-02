@@ -11,9 +11,7 @@ body{
 h1{
     padding: 25px;
 }
-ul{
-    text-align: center;
-}
+
 /* Make your p tag a different color and italic */
 p{
     color:  palevioletred;
