@@ -11,6 +11,9 @@ body{
 header{
     background-color: azure;
 }
+footer{
+    background-color: yellow;
+}
 /* Align the h1 containing your name in the center of the header*/
 h1{
     text-align: center;
