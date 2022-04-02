@@ -16,7 +16,8 @@ footer{
     background-color: peachpuff;
     position:absolute;
     bottom: 0;
-    left: 25;
+    left:0;
+    text-align: center;
     
 }
 /* Align the h1 containing your name in the center of the header*/
@@ -28,6 +29,7 @@ p{
     color:  palevioletred;
     font-style: italic;
     font-size: larger;
+
     
 }
 /* Put a border around your image */
