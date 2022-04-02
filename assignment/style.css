@@ -18,6 +18,7 @@ footer{
     position:absolute;
     bottom: 0;
     left: 0;
+    padding-right: 25px;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1{
