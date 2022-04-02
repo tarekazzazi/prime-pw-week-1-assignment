@@ -41,5 +41,8 @@ p{
 /* Put a border around your image */
 img{
     border: 25px;
+    border-style: solid;
+    border-color: blueviolet;
+    
 }
 /* Change the font-family of your list */
